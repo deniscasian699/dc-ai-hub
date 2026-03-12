@@ -1,0 +1,48 @@
+# Firebase
+firebase-config.js
+.firebaserc
+firebase-debug.log
+firestore.rules
+firestore.indexes.json
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build
+dist/
+build/
+.cache/
+
+# Temporary
+*.tmp
+*.bak
+*.swp
+*~
+
+# Testing
+coverage/
+.nyc_output/
