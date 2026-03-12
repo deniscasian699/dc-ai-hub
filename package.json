@@ -1,0 +1,29 @@
+{
+  "name": "ai-tools-hub",
+  "version": "1.0.0",
+  "description": "Curated directory of AI-powered tools",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "format": "prettier --write \"**/*.{html,css,js,json,md}\"",
+    "lint": "eslint assets/js/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deniscasian699/ai-tools-hub.git"
+  },
+  "keywords": [
+    "ai",
+    "tools",
+    "directory",
+    "firebase",
+    "pwa",
+    "javascript"
+  ],
+  "author": "Denis Casian <contact@deniscasian.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deniscasian699/ai-tools-hub/issues"
+  },
+  "homepage": "https://aihub.deniscasian.com"
+}
